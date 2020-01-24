@@ -1,6 +1,6 @@
 import React from "react";
 
-import logo from "../assets/images/name.png";
+import logo from "../assets/images/i9logo.png";
 import css from "../assets/css/navbar.css";
 
 class Navigation extends React.Component {

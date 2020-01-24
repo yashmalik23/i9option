@@ -1,4 +1,5 @@
 import Header from "./header";
 import LandingPage from "./landing";
+import Home from "./homePage";
 
-export { Header, LandingPage };
+export { Header, LandingPage, Home };
