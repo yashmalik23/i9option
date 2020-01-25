@@ -1,6 +1,6 @@
 import React from "react";
 
-import css from "../assets/css/landing.css";
+import "../assets/css/landing.css";
 import logo from "../assets/images/i9logo.png";
 import { Link } from "react-router-dom";
 

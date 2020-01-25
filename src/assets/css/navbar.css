@@ -5,7 +5,7 @@ html {
 }
 .nav_bar {
   position: sticky;
-  /* background-color: rgba(0, 0, 0, 0.5); */
+  background-color: rgba(0, 0, 0, 0.9);
 }
 .desktop_nav_bar {
   height: 70px;

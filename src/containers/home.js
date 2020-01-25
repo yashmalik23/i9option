@@ -1,16 +1,18 @@
 import React from "react";
+import data from '../components/sample.json'
+import {Home} from '../components'
 
 class HomePage extends React.Component {
   constructor(props) {
     super(props);
-    this.data = "";
+    this.state = {
+      data: data
+    }
   }
 
   render() {
     return (
-      <div>
-        <div>Home Page</div>
-      </div>
+      <Home data={this.state.data} />
     );
   }
 }
